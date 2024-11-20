@@ -1,4 +1,4 @@
-# Calculardora
+# Calculadora
 Projeto feito no curso de Fundamentos em C# do balta.io
 
 Projeto inicial apenas para concretizar conceitos básicos no C# e .NET.
